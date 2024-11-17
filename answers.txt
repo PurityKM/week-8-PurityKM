@@ -1,0 +1,6 @@
+SDG Selection:
+SDG : Peace, Justice, and Strong Institutions
+This is where we focus on ensuring access to justice and building effective institutions, which includes the sub-goal of identifying and reuniting lost or missing individuals.
+
+Problem Definition:
+One pressing issue is finding lost individuals, particularly children, refugees, or elderly people with memory impairments. This can be addressed by creating a centralized database that collects, organizes, and analyzes missing persons' reports and matches them with sightings or recovered individuals using data.
